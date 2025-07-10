@@ -170,7 +170,7 @@ a {
   }
 
   .header__menu {
-    /* display: none; */
+    display: none;
   }
 
   .header__menu-mobile {
